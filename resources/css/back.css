@@ -1,0 +1,32 @@
+.img-preview {
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-small {
+    height: 50px;
+    width: 80px;
+}
+
+.bg-Processing {
+    background-color: #9c9c9c;
+}
+
+.bg-Confirmed {
+    background-color: #daea02;
+    color: #000 !important;
+}
+
+.bg-Shipping {
+    background-color: #01b7d5;
+}
+
+.bg-Delivered {
+    background-color: #15bf04;
+}
+
+.bg-Cancelled {
+    background-color: #d40000;
+}
